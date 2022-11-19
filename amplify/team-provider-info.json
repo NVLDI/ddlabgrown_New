@@ -20,6 +20,12 @@
       },
       "api": {
         "api3af46653": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dkazb6hbz370t",
+          "type": "manual"
+        }
       }
     }
   }
