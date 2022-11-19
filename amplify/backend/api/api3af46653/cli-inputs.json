@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/distributor/{distributorId}": {
+      "name": "/distributor/{distributorId}",
+      "lambdaFunction": "ddlabgrown79947557",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
